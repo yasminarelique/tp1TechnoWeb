@@ -1,0 +1,16 @@
+Mon Jan 14 14:00:13 CET 2019 : Apache Derby Network Server - 10.11.1.2 - (1629631) démarré et prêt à accepter les connexions sur le port 1527
+----------------------------------------------------------------
+Mon Jan 14 14:00:13 CET 2019:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) : instance a816c00e-0168-4c72-a72d-fffffa000326 
+dans le répertoire de base de données T:\Promotion_2021\Relique Yasmina\tp1TechnoWeb\sample avec le chargeur de classe sun.misc.Launcher$AppClassLoader@266474c2
+Chargé de file:/C:/Program%20Files/Java/jdk1.8.0_152/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=C:\Program Files\Java\jdk1.8.0_152\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=T:\Promotion_2021\Relique Yasmina\tp1TechnoWeb
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+----------------------------------------------------------------
+Mon Jan 14 15:44:01 CET 2019 : fermeture du moteur Derby

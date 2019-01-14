@@ -15,6 +15,10 @@ public class CustomerEntity {
 		this.addressLine1 = addressLine1;
 	}
 
+    CustomerEntity() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 	/**
 	 * Get the value of customerId
 	 *
